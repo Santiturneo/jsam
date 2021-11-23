@@ -1,6 +1,6 @@
 {
     "name": "gitparkv1",
-    "homepage": "http://parkingzone1.clubcoderos.com/",
+    "homepage": "http://parkingzone1.clubcoderos.com/pagina_principal",
     "repositories": [
         { "type": "git", "url": "https://github.com/andreyillo/gitparkv1.git" }
     ],
