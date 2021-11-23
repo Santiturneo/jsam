@@ -1,0 +1,8 @@
+{
+    "name": "gitparkv1",
+    "homepage": "http://parkingzone1.clubcoderos.com/",
+    "repositories": [
+        { "type": "git", "url": "https://github.com/andreyillo/gitparkv1.git" }
+    ],
+    "require-all": true
+}
