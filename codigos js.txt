@@ -1,0 +1,8 @@
+git status
+git add .
+git status 
+git commit -m "nombre del ejercicio"
+git push https://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@github.com/Santiturneo/jsam.git
+
+
+como se construyen objertos instasiados en javascript
